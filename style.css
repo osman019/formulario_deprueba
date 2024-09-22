@@ -1,0 +1,21 @@
+.grupo{
+    border: 1px solid rgb(25, 0, 255);
+    border-radius: 1.5vw;
+    width: 30vw;
+    height: 70vh;
+    border-bottom-color: blue;
+    border-top-color: blue;
+    border-bottom-width: 1vw;
+    border-top-width: 1vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    background-color: aliceblue;
+}
+label{
+    color: rgb(0, 17, 255);
+    font-size: 2em;
+}
+input{border: none;
+height: 5vh;
+width: 20vw;
+}
